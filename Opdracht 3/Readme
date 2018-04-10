@@ -1,0 +1,21 @@
+Tim doe ff animaties toevoegen bij het inladen
+
+API inladen - Opdracht 3
+
+Via https://raw.githubusercontent.com/15Dkatz/official_joke_api/master/jokes/index.json laadt ik een open source API in die bestaat uit grapjes.
+Een setup en een punchline. Momenteel bestaat de API uit 57 objecten, maar dit kunnen er dus op elk moment meer worden.
+
+
+Toen ik met het vak begon had ik niet verwacht dit niveau van javascript te bereiken, dus props aan Koop.
+Niet alleen snap ik de code, heb ik hem zelf geschreven maar hij is nu ook zo geschreven dat alles werkt ongeacht uit hoeveel objecten de API bestaat.
+
+Patterns, Logica etc. in mijn ontwerp.
+Boven aan de grap staat het type; General, Knock-knock, Programming etc.
+
+Om climax te creeeren is de clue in eerste instantie verstopt tot de gebruiker op "clue" drukt.
+Daarna animeert de clue, en speelt er een geluidje af.
+
+Ook kan de gebruiker de grap favoriten. Wanneer hij dit doet verschijnt er "haha" in beeld. En deze afbeelding doet erna een fade out naar benenen om de ogen van de gebruiker naar beneden te sturen.
+Daarnaast wordt My Favorites groter, en weer zijn oorspronkelijke grootte, en telt er een cijfer bij op.
+
+Deze animaties en bewegingen zijn zo ontworpen dat het de gebruiker stuurt naar het gedag wat belangijk is, zodat gebruiker weet wat hij verwacht, wat er gebeurt is zodra hij ergens op klikt en het natuurlijk aanvoelt.

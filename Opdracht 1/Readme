@@ -1,0 +1,14 @@
+Read me
+
+Case 1
+Als ik een lijst films heb gevonden, wil ik leuke films kunnen opslaan om ze thuis te
+
+Priciples of User Interface Design
+
+4. Keep users in control
+Humans are most comfortable when they feel in control of themselves and their environment. Thoughtless software takes away that comfort by forcing people into unplanned interactions, confusing pathways, and surprising outcomes. Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn. Don't worry about stating the obvious…the obvious almost never is.
+
+11. Strong visual hierarchies work best
+A strong visual hierarchy is achieved when there is a clear viewing order to the visual elements on a screen. That is, when users view the same items in the same order every time. Weak visual hierarchies give little clue about where to rest one's gaze and end up feeling cluttered and confusing. In environments of great change it is hard to maintain a strong visual hierarchy because visual weight is relative: when everything is bold, nothing is bold. Should a single visually heavy element be added to a screen, the designer may need to reset the visual weight of all elements to once again achieve a strong hierarchy. Most people don't notice visual hierarchy but it is one of the easiest ways to strengthen (or weaken) a design.
+
+De principes zijn toegepast op het design door middel van een aantal simpele toepassingen. Allereerst wordt de gebruiker nergens toe tot geforceert wanneer hij de zero state bereikt. Er wordt gebruik gemaakt van een pattern wat voor de gebruiker bekend zal zijn in zijn mental model door bijvoorbeeld Instagram. Het lege hartje insiueert dat er iets mee kan gebeuren. Wanneer de gebruiker hier op klikt, verschijnt er een animatie die de blik van de kijker naar beneden stuurt, waar de lijst met favoriete films zich bevind. De teller achter de list, gaat een nummer omhoog, en het hartje is vol wit. Door deze reeks van animatie wordt de blik van de gebruiker begeleid in het process. Tevens heb ik gebruik gemaakt van een hierarchie in de informatie die wordt weergeven. De belangrijkste details zijn het eerst zichtbaar, en groter weergeven dan de secundaire details.
